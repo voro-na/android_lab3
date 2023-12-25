@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab3</string>
+
+    <string name="queryHint">search topic</string>
+    <string name="search">search</string>
+    <string name="results_found">Results found: %1$d</string>
+    <string name="link_to_source">Link to source: %1$s</string>
+
+    <string name="error_message">Error! Empty search query entered</string>
+</resources>
